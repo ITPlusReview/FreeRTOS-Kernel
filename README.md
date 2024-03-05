@@ -1,5 +1,6 @@
 [![CMock Unit Tests](https://github.com/FreeRTOS/FreeRTOS-Kernel/actions/workflows/unit-tests.yml/badge.svg?branch=main&event=push)](https://github.com/FreeRTOS/FreeRTOS-Kernel/actions/workflows/unit-tests.yml?query=branch%3Amain+event%3Apush+workflow%3A%22CMock+Unit+Tests%22++)
 [![codecov](https://codecov.io/gh/FreeRTOS/FreeRTOS-Kernel/badge.svg?branch=main)](https://codecov.io/gh/FreeRTOS/FreeRTOS-Kernel)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FITPlusReview%2FFreeRTOS-Kernel.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FITPlusReview%2FFreeRTOS-Kernel?ref=badge_shield)
 
 ## Getting started
 
@@ -180,3 +181,7 @@ then sort the list, which can be done by running the bash command:
 Note that only the FreeRTOS-Kernel Source Files, [include](include),
 [portable/MemMang](portable/MemMang), and [portable/Common](portable/Common)
 files are checked for proper spelling, and formatting at this time.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FITPlusReview%2FFreeRTOS-Kernel.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FITPlusReview%2FFreeRTOS-Kernel?ref=badge_large)
